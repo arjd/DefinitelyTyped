@@ -6,7 +6,7 @@
 
 import * as request from 'superagent';
 
-declare type int = number;
+type int = number;
 
 declare namespace plugin {
     class Throttle {
@@ -16,7 +16,7 @@ declare namespace plugin {
             ratePer?: int;
             concurrent?: int;
         })
-        plugin() : request.Plugin;
+        plugin(): request.Plugin;
     }
 }
 
