@@ -1,5 +1,5 @@
-// Type definitions for superagent-throttle 1.0.1
-// Project: https://github.com/leviwheatcroft/superagent-throttle
+// Type definitions for superagent-throttle 1.0
+// Project: http://leviwheatcroft.github.io/superagent-throttle
 // Definitions by: Adam Dornford <https://github.com/arjd>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 2.2
