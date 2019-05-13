@@ -2,7 +2,7 @@
 // Project: https://github.com/luispabon/superagent-retry-delay
 // Definitions by: Adam Dornford <https://github.com/arjd>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
-// TypeScript Version: 2.1
+// TypeScript Version: 2.2
 
 import * as superagent from 'superagent';
 import * as https from 'https';
